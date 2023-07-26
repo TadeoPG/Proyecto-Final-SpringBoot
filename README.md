@@ -6,3 +6,5 @@ Tecnologías usadas:
 - PostgreSQL
 - ModelMapper
 - Postman
+
+Está orientado al registro de matrículas de estudiantes de una institución utilizando programación funcional como una variante a consultas nativas SQL.
